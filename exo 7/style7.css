@@ -1,0 +1,14 @@
+body {
+  background-image: linear-gradient(white, yellow, orange, red, pink, purple, black);
+  color: black;
+}
+.small {
+  font-size: 0.3rem;
+}
+button {
+  background-color: red;
+  color: white;
+}
+strong {
+  color: red;
+}
