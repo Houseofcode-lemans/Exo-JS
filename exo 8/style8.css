@@ -1,6 +1,6 @@
 body {
-  background-image: linear-gradient(white, yellow);
-  color: black;
+  background-image: linear-gradient(Black, grey);
+  color: lightgreen;
 }
 .small {
   font-size: 0.3rem;
